@@ -52,6 +52,6 @@ int main()
     fill(arr, size);
 
     cout << position(arr, size) << endl;
-    //print(arr, size);
+    //print(arr, size);  // вывод массива
 
 }
